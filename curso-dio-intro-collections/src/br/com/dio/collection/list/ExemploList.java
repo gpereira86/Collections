@@ -9,7 +9,6 @@ public class ExemploList {
 
 
         // ::: DIFERENTES FORMAS DE DECLARAR :::
-
         //  List notas = new ArrayList(); //antes do java 5
         //  List<Double> notas = new ArrayList<>(); //Generics(JDK 5) - Diamont Operator (JDK 7)
         //  ArrayList<Double> notas = new ArrayList();
