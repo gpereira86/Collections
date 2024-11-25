@@ -7,6 +7,9 @@ public class ExemploList {
     public static void main(String[] args) {
         //Dada uma lista com 7 nota de um aluno [7, 8.5, 9.3, 5, 7, 0, 3.6], faça:
 
+
+        // ::: DIFERENTES FORMAS DE DECLARAR :::
+
         //  List notas = new ArrayList(); //antes do java 5
         //  List<Double> notas = new ArrayList<>(); //Generics(JDK 5) - Diamont Operator (JDK 7)
         //  ArrayList<Double> notas = new ArrayList();
