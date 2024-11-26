@@ -1,6 +1,5 @@
 package br.com.dio.collection.list.exerciciodois;
 
-import java.sql.SQLOutput;
 import java.util.*;
 
 public class ExercicioListDois {
